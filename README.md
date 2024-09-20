@@ -3,7 +3,7 @@
 <img align="right" width="300px" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 - 🌱 I’m currently learning **JavaScript**
-- - 🌱 I’m enrolled in a course of Web and App development at **SMIT**
+- 🌱 I’m enrolled in a course of Web and App development at **SMIT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayesha-enayat](https://github.com/ayesha-enayat)
 
