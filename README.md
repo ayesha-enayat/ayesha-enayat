@@ -1,4 +1,5 @@
-#![Header](./your-header-image-name.png)
+
+##  About me:
 🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning ES6<br><br>
 
 
