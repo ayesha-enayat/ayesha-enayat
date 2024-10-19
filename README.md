@@ -2,13 +2,14 @@
 
 <h1 align="center"><i>HELLO! 👋 I'M AYESHA ☺️</i></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Enthusiast+|+Lifelong+Learner;Driven+|+Curious+|+Ambitious)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
 
-<h3 align="center"><b>I'm a Frontend Developer Passionate About Building Innovative Websites</b></h3>
+
+<h3 align="center"><b>I'm a Frontend Developer </b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayesha-enayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-Hi, I’m Ayesha, and I’m currently learning Full Stack Web and Mobile App Development at Saylani Mass IT Training (SMIT). I have a passion for technology, especially frontend development using Tailwind CSS, JavaScript, React.js, and Next.js.
+Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web Development at Saylani Mass IT Training (SMIT). I’m passionate about technology and specialize in frontend development, using tools like Bootsrap, HTML, CSS, JavaScript, and React.js to build dynamic and user-friendly websites.
 
 ---
 
@@ -34,4 +35,5 @@ Hi, I’m Ayesha, and I’m currently learning Full Stack Web and Mobile App Dev
 
 ---
 
-<i>✨Top languages do not indicate my skill level, it's a GitHub metric showing the languages I have the most code on GitHub.✨</i>
+<i>✨My GitHub language stats showcase my journey and the tools I've explored along the way.✨</i>
+
