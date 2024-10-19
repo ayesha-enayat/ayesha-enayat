@@ -1,6 +1,6 @@
 <p align="center"><img src="https://your-banner-link.gif" height="300px" width="95%" /></p>
 
-<h1 align="center"><i>HELLO! 👋 I'M AYESHA ☺️</i></h1>
+<h1 align="center"><i>HELLO! 👋 I'M AYESHA Muhammad Enayat</i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
 
@@ -25,7 +25,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootsrap,git,github,vscode" />
 </p>
 
 <p align="center">
