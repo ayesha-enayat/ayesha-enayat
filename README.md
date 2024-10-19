@@ -1,20 +1,34 @@
+<p align="center"><img src="https://your-banner-link.gif" height="300px" width="95%" /></p>
 
-##  About me:
-🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning ES6<br><br>
+<h1 align="center"><i>HELLO! 👋 I'M AYESHA ☺️</i></h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Enthusiast+|+Lifelong+Learner;Driven+|+Curious+|+Ambitious)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayesh_enayat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-muhammad-enayat-hussain-899bb1269/) 
+<h3 align="center"><b>I'm a Frontend Developer Passionate About Building Innovative Websites</b></h3>
 
-# 💻 Tech:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayesha-enayat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayesha-enayat&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-enayat&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
+Hi, I’m Ayesha, and I’m currently learning Full Stack Web and Mobile App Development at Saylani Mass IT Training (SMIT). I have a passion for technology, especially frontend development using Tailwind CSS, JavaScript, React.js, and Next.js.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayesha-enayat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center"><i>🔗 CONNECT WITH ME 🔗</i></h2>
+<p align="center">
+    <a href="github.com/your-github" target="blank"><img src="https://skillicons.dev/icons?i=github" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" /></a>
+    <a href="mailto:your-email@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
+</p>
+
+---
+
+<h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,vscode" />
+</p>
+
+<p align="center">
+<a href="https://github.com/your-username/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/your-username/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="GitHub Streak Stats" /></a>
+</p>
+
+---
