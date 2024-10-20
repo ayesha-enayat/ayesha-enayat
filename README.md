@@ -25,7 +25,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootsrap css,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,vscode" />
 </p>
 
 <p align="center">
