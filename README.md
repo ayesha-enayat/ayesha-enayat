@@ -16,7 +16,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 <h2 align="center"><i>🔗 CONNECT WITH ME 🔗</i></h2>
 <p align="center">
     <a href="https://github.com/ayesha-enayat" target="blank"><img src="https://skillicons.dev/icons?i=github" height="50" width="50" /></a>
-    <a href="https://linkedin.com/in/ayesha-muhammad-enayat-hussain" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/ayesha-muhammad-enayat-hussain-899bb1269" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" /></a>
     <a href="mailto:your-email@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
     <a href="https://instagram.com/ayesh_enayat" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" /></a>
 </p>
@@ -25,7 +25,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootsrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,bootsrap,vscode" />
 </p>
 
 <p align="center">
