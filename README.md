@@ -32,6 +32,12 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 <a href="https://github.com/ayesha-enayat/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-enayat&show_icons=true" alt="GitHub Stats" /></a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-enayat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-enayat" alt="GitHub Streak Stats" /></a>
 </p>
+<p align="center">
+    <a href="https://github.com/ayesha-enayat/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-enayat&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+</p>
+
 
 ---
 
