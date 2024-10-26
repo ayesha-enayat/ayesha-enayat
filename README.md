@@ -4,12 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
 
-
 <h3 align="center"><b>I'm a Frontend Developer </b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayesha-enayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web Development at Saylani Mass IT Training (SMIT). I’m passionate about technology and specialize in frontend development, using tools like Bootsrap, HTML, CSS, JavaScript, and React.js to build dynamic and user-friendly websites.
+Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web Development at Saylani Mass IT Training (SMIT). I’m passionate about technology and specialize in frontend development, using tools like Bootstrap, HTML, CSS, JavaScript, and React.js to build dynamic and user-friendly websites.
 
 ---
 
@@ -25,12 +24,10 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c++,html,css,js,git,github,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,bootstrap,vscode" />
 </p>
 
-
 ---
-
 
 <p align="center">
 <a href="https://github.com/ayesha-enayat/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-enayat&show_icons=true" alt="GitHub Stats" /></a><br>
@@ -45,8 +42,6 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
     </a>
 </p>
 
-
 ---
 
 <i>✨My GitHub language stats showcase my journey and the tools I've explored along the way.✨</i>
-
