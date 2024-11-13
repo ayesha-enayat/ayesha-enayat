@@ -18,7 +18,9 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
     <a href="https://linkedin.com/in/ayesha-muhammad-enayat-hussain-899bb1269" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" /></a>
     <a href="mailto:ayeshamenayat@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
     <a href="https://instagram.com/ayesh_enayat" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="50" width="50" /></a>
+    <a href="https://codepen.io/ayesha-enayat" target="blank"><img src="https://skillicons.dev/icons?i=codepen" height="50" width="50" /></a>
 </p>
+
 
 ---
 
