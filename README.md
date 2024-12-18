@@ -27,7 +27,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,bootstrap,vscode,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,bootstrap,vscode,firebase,react" />
     <img src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" alt="cloudinary" height="50" width="50" />
 </p>
 
@@ -36,8 +36,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 ---
 
 <p align="center">
-<a href="https://github.com/ayesha-enayat/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-enayat&show_icons=true" alt="GitHub Stats" /></a><br>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-enayat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-enayat" alt="GitHub Streak Stats" /></a>
+<a href="https://github.com/ayesha-enayat/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ayesha-enayat&show_icons=true" alt="GitHub Stats" /></a>
 </p>
 
 ---
