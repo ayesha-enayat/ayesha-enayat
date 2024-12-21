@@ -1,5 +1,3 @@
-<p align="center"><img src="https://your-banner-link.gif" height="300px" width="95%" /></p>
-
 <h1 align="center"><i>HELLO! 👋 I'M AYESHA Muhammad Enayat</i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
