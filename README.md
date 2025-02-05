@@ -23,7 +23,7 @@ Hi there! I’m Ayesha, an aspiring developer currently studying Full Stack Web 
 
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,bootstrap,vscode,firebase,react,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,bootstrap,vscode,firebase,react,python,tailwind" />
     <img src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" alt="cloudinary" height="50" width="50" />
 </p>
 
