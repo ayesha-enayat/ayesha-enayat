@@ -24,7 +24,6 @@ Hi there! I’m Ayesha, Full Stack Web Developer .I’m passionate about technol
 <h2 align="center"><i>⚙️ LANGUAGE AND TOOLS ⚙️</i></h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,scss,js,git,github,bootstrap,vscode,firebase,react,python,tailwind,nodejs,express,mongodb" />
-    <img src="https://res.cloudinary.com/demo/image/upload/cloudinary_icon.png" alt="cloudinary" height="50" width="50" />
 </p>
 
 ---
