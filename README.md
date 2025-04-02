@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
 
-<h3 align="center"><b>I'm a Frontend Developer </b></h3>
+<h3 align="center"><b>I'm a Fullstack Developer </b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayesha-enayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
