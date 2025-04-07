@@ -1,12 +1,14 @@
-<h1 align="center"><i>HELLO! 👋 I'M AYESHA Muhammad Enayat</i></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Developer+|+Creative+Mind;Always+Learning+|+Passionate+About+Tech)](https://git.io/typing-svg)
 
-<h3 align="center"><b>I'm a Fullstack Developer </b></h3>
+<h3 align="center"><b>I'm a MERN Stack Developer </b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayesha-enayat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-Hi there! I’m Ayesha, Full Stack Web Developer .I’m passionate about technology and specialize in frontend development, using tools like Bootstrap, HTML, CSS, JavaScript, and React.js to build dynamic and user-friendly websites.
+Hi, I'm Ayesha 👋
+MERN Stack Developer | Software Engineering Student at UBIT
+
+I'm a passionate developer who loves building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning ideas into functional and responsive web solutions.
 
 ---
 
